@@ -1,0 +1,26 @@
+/******************* Course add/drop CSS */
+
+#SSR_SSENRL_CART, #SSR_SSENRL_CART .PSHYPERLINK {
+  padding: .5em;
+}
+
+#DERIVED_SASSMSG_SSR_MSG_PB {
+	position: absolute;
+	margin-left: .5em;
+}
+
+span[id^="DERIVED_SASSMSG"] {
+    background: #FCF0DA;
+    padding: 1em 1em 1em 2.25em;
+    margin: -.875em 0 0 -3em;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px #777;
+}
+
+.PSPUSHBUTTON#Left, .PSPUSHBUTTON.Left {
+    height: auto;
+    margin-bottom: 11px;
+ }
+
